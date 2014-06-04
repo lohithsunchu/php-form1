@@ -1,0 +1,98 @@
+div#emp-form table.form-1 tbody tr td{
+	border: 1px solid #ccc;
+	text-align: center;
+	width: 100%;
+	float: left;
+	}
+
+div#id-card{
+	width: 17%;
+	float: left;
+	border: 2px solid #0CA39D;
+	margin: 0 42%;
+	border-radius: 30px;
+        background: url("../images/bgg.png") no-repeat ;
+
+	}
+div#id-card .id-details{
+	width: 100%;
+	float: left;
+	margin: 10px 0;
+	}
+
+div#id-card .id-details h3{
+	margin: 0;
+	text-align: center;
+	text-decoration: underline;
+	}
+
+div#id-card span.det{
+	width: 46%;
+	float: left;
+	color: #C43511;
+	padding: 4px 0 4px 4%;		
+	font-size: 110%;
+		
+	} 
+
+div#id-card span.code{
+	width: 46%;
+	float: left;
+	color: #0F0F0F;
+	padding: 4px 4% 4px 0;
+	font-size: 110%;		
+	} 
+
+table.result-output{
+	width: 100%;
+	float: left;
+	margin: 10px 0;
+	border-collapse: collapse;
+	}
+table.result-output td{
+	border: 1px solid #ccc;
+	}
+
+table.result-output td.code{
+	width: 46%;
+	float: left;
+	color: #0F0F0F;
+	padding: 4px 4% 4px 0;
+	font-size: 110%;		
+	} 
+
+table.result-output td.det{
+	width: 46%;
+	float: left;
+	color: #C43511;
+	padding: 4px 0 4px 4%;		
+	font-size: 110%;
+		
+	} 
+
+div#ht-section{
+	margin-top: 20px;
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+
+div#ht-section input.hbox{
+	min-height: 25px;
+	border-radius: 5px;
+	}
+
+div#ht-section input.submit{
+	width: 4%;
+	color: white;
+	background: #f05023;
+	border-radius: 5px;
+	border: 0;
+	min-height: 25px;
+	font-size: 109%;
+	}
+div#note{
+	display: none;
+	}
+	
+
